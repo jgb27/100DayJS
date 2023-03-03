@@ -69,10 +69,12 @@ input[type="color"]::-moz-color-swatch{
 }
 
 .gridCol {
+    background-color: #fff;
     height: 1em;
     width: 1em;
     border: 1px solid #ddd;
 }
+
 
 .gridRow{
     display: flex;
